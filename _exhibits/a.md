@@ -20,7 +20,7 @@ Cockroft’s commitment to social change and progressive movements is best exemp
 
 Outside of California, Cockroft’s murals are also located in New Jersey, New York, and Germany. Her more than 30 murals are viewed by an innumerable amount of people everyday.
 
-Eva Cockroft died of breast cancer on April 1, 1999 at the age of 62. She is survived by her partner, three sons, seven grandchildren, and artistic works.^1
+Eva Cockroft died of breast cancer on April 1, 1999 at the age of 62. She is survived by her partner, three sons, seven grandchildren, and artistic works.[^1]
 
 “Public art in general gives a neighborhood an identity, creates beauty and something for people to see as they walk by,” said Cockroft.
 
