@@ -1,24 +1,25 @@
 ---
 layout: exhibit
-title: 'Exhibit B: Inline Image References'
-author: Mihr 'Ali
+title: 'Exhibit B:'
+author: Clara Valenzuela
 publish_date: 2018-11-15
 permalink: /exhibits/b/
 ---
+The noble struggle and history of Latino Americans is a common theme in Southwestern American murals. This tradition stretches back to the early 20th century, when Mexican muralists Diego Rivera and Jose Clemente Orozsco created artwork depicting a cohesive national identity or mexicanidad, tying together all the political, ethnic, and cultural factions that remained after the Mexican Revolution. Contemporary muralist Yreina Cervantez follows in this lineage, artistically portraying the experiences of latinx folks in the United States. Oftentimes these murals explore topics like immigration, institutional racism, assimilation, labor issues, and identity struggle. Images of ancient indigeneous figures are often featured as a reference to the Atzlàn - the ancestral home of the Aztec people stretching well across the current U.S. border. 
+Cervantez is a third generation Chicana raised in Southern California. Beyond her mural work, she is a tenured Professor of Chicanx studies at CSU Northridge. Located in Los Angeles, Yreina Cervantez’s 1989 work La Ofrenda is “an homage to the strength of the latino people. It brings attention to the hardships of war and immigration and emphasizes women’s roles through the central image, a portrait of the United Farmworker’s Union leader, Dolores Huerta.” (1)
+{% include inline_image.html collection='dunitz' pid='obj62' %}
+The mural’s title references the ofrenda or offering table used in the Dia de Muertos tradition. The ofrenda is an ancestral altar, displaying pictures and objects from passed family members to pay homage. Cervantez’s La Ofrenda is a metaphorical offering table for the labor struggles of latinx farmworkers, personified by the image of civil rights leader, Dolores Huerta. Huerta and fellow activist Cesar Chavez co-founded the National Farmworkers Association in the 1960s and organized many successful strikes and nonviolent demonstrations advocating for better work conditions and pay for latinx immigrant farm laborers. In La Ofrenda, Yreina pays homage to this longstanding legacy of latinx civil rights. 
+In 1995, Cervantez collaborated with fellow academic/artist Alma Lopez to paint La Historia de Adentro, La Historia de Afuera or The History from Within, The History from Without in Huntington Beach. A short description of the mural written by Cervantez and Lopez is included in the Dunitz archive. The work’s title recalls a philosophical concept posed by Mexican anthropologist Miguel Leon Portilla in his book Endangered Cultures:
+“Nonetheless it is undeniable that history as a search for roots and antecedents from one’s own orientation is fundamentally linked with an awareness of cultural identity and its defense… deprived of its memory, cultural identity dissolves.” (2)
+In this way, La Historia is less a literal depiction of latinx history (as is the case with La Ofrenda), but commentary on the idea of cultural identity itself. Despite local outrage and protest by fellow artists and civil rights leaders, the mural was eventually painted over in 2008. (3)
+To learn more about Yreina Cervantez and other contemporary muralists, feel free to browse our collection. 
 
-Ut eleifend lacus at erat efficitur bibendum. Ut laoreet elit nec dolor molestie finibus. Vivamus justo risus, scelerisque nec dolor ut, pretium fringilla purus. Nam nisl erat, tristique ac libero vitae, bibendum pellentesque nulla. Praesent accumsan ut mauris ut euismod. Etiam mattis a justo eget blandit. Aliquam vitae magna eget nisi suscipit finibus id sit amet nulla.
+---
 
-Nam velit leo, mattis ac dui non, vulputate porttitor sapien. Praesent in aliquet dui. Nulla facilisi. Maecenas nulla ex, facilisis non aliquet ac, ultrices eu sem. Sed vel aliquet urna. Mauris quis ex at lectus iaculis elementum id id massa. Integer luctus nulla vel tellus rutrum, ac pulvinar erat finibus. Aliquam erat volutpat. Pellentesque vel velit sit amet mauris dignissim feugiat.
+### Notes
 
-{% include inline_image.html collection='qatar' pid='obj7' %}
+[^1]: “La Ofrenda; The Offering” Dunitz Archive obj. 53
 
-Duis commodo ligula libero, a pharetra ligula posuere sit amet. Sed ipsum dolor, elementum eget nisl eget, sagittis vestibulum augue. Donec tincidunt mauris et nunc sagittis, nec consectetur lorem tristique. Nulla tincidunt magna ut ullamcorper consectetur. Nulla mi urna, feugiat sed massa non, ullamcorper efficitur dolor. Sed luctus, massa eget pharetra posuere, nibh sem eleifend lectus, lobortis molestie ante libero non metus. Aenean et est sit amet est pulvinar convallis vel non tortor. Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.
+[^2]: “La Historia de Adentro La Historia de Afuera/History From Within History From Without” Dunitz Archive obj. 56
 
-Integer eu augue elementum, venenatis nisi vitae, ultrices magna. Nunc accumsan sem quis tristique iaculis. Quisque sed lorem tortor. Quisque viverra sem a orci aliquet sodales. Aliquam commodo eros at sagittis vehicula. Quisque in massa turpis. Aliquam aliquam consectetur magna non dignissim. Sed fringilla a ligula vitae molestie.
-
-Duis finibus leo non velit viverra tincidunt. Fusce efficitur laoreet convallis. Sed sem felis, porttitor sit amet volutpat ac, consequat quis lectus. Donec elementum dignissim vehicula. Pellentesque fringilla ex bibendum, ornare sapien a, mollis neque. Duis faucibus diam vitae faucibus feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pharetra elit sem, et euismod massa mattis ut. Phasellus maximus ipsum in nulla sollicitudin viverra. Morbi semper lectus quis dolor cursus, ut convallis lacus venenatis. Pellentesque lorem mauris, malesuada a fringilla et, iaculis sodales metus. Suspendisse finibus purus ut sem commodo feugiat.
-
-
-{% include inline_image.html collection='qatar' pid='obj2' %}
-
-Duis commodo ligula libero, a pharetra ligula posuere sit amet. Sed ipsum dolor, elementum eget nisl eget, sagittis vestibulum augue. Donec tincidunt mauris et nunc sagittis, nec consectetur lorem tristique. Nulla tincidunt magna ut ullamcorper consectetur. Nulla mi urna, feugiat sed massa non, ullamcorper efficitur dolor. Sed luctus, massa eget pharetra posuere, nibh sem eleifend lectus, lobortis molestie ante libero non metus. Aenean et est sit amet est pulvinar convallis vel non tortor. Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.
+[^3]”: “Why Did Huntington Beach Allow a Chicano Mural to Get Whitewashed". OC Weekly. September 8, 2017. 
