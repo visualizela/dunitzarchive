@@ -2,7 +2,7 @@
 layout: exhibit
 title: 'Eva Cockroft'
 author: Lance Howard Azusada
-publish_date: 2018-11-15
+publish_date: 2020-06-16
 permalink: /exhibits/a/
 ---
 
