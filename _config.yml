@@ -21,7 +21,7 @@
 title:            'Robin Dunitz Archive'
 description:      'A selection of materials from the Robin Dunitz Archive'
 url:              'https://visualizela.github.io'
-baseurl:          '/dunitzproject'
+baseurl:          '/dunitzarchive'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
