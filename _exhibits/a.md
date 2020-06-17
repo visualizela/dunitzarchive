@@ -3,7 +3,7 @@ layout: exhibit
 title: 'Eva Cockroft'
 author: Lance Howard Azusada
 publish_date: 2018-11-15
-permalink: /exhibits/b/
+permalink: /exhibits/a/
 ---
 
 In the mid-19th century, great shifts in the American workplace after the Industrial Revolution led to a labor movement spearheaded by disenfranchised laborers. As the movement gained traction, organized labor unions fought for better workplace conditions, wages, and the criminalization of child labor. Several popular figures of the movement are still remembered today, Caesar Chavez debatably the most notable. These figures are more often than not men, as the contributions of women in the labor movement have historically been overlooked. Yet, many memorable women held positions of leadership throughout the movement, a few of whom are depicted here in Eva Cockroft’s mural, Women and the Labor Movement in California. 
