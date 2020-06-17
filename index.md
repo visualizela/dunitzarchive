@@ -3,12 +3,12 @@ layout: page
 show_title: false
 banner:
   collection: dunitzproject
-  pid: obj10
+  pid: obj38
   y: 25%
   height: '500px'
 ---
 
-This collection is the Robin Dunitz Mural Archive   . . .
+This collection provides access to materials from the Robin Dunitz Mural Archive. The archive is arranged by Muralist.
 
 ### Browse the Collection
 
