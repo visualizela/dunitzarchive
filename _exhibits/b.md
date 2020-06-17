@@ -1,8 +1,8 @@
 ---
 layout: exhibit
-title: 'Exhibit B:'
+title: 'Yreina Cervantez'
 author: Clara Valenzuela
-publish_date: 2018-11-15
+publish_date: 2020-06-16
 permalink: /exhibits/b/
 ---
 The noble struggle and history of Latino Americans is a common theme in Southwestern American murals. This tradition stretches back to the early 20th century, when Mexican muralists Diego Rivera and Jose Clemente Orozsco created artwork depicting a cohesive national identity or mexicanidad, tying together all the political, ethnic, and cultural factions that remained after the Mexican Revolution. Contemporary muralist Yreina Cervantez follows in this lineage, artistically portraying the experiences of latinx folks in the United States. Oftentimes these murals explore topics like immigration, institutional racism, assimilation, labor issues, and identity struggle. Images of ancient indigeneous figures are often featured as a reference to the Atzlàn - the ancestral home of the Aztec people stretching well across the current U.S. border. 
@@ -27,4 +27,5 @@ To learn more about Yreina Cervantez and other contemporary muralists, feel free
 
 [^2]: “La Historia de Adentro La Historia de Afuera/History From Within History From Without” Dunitz Archive obj. 56
 
-[^3]”: “Why Did Huntington Beach Allow a Chicano Mural to Get Whitewashed". OC Weekly. September 8, 2017. 
+[^3]: “Why Did Huntington Beach Allow a Chicano Mural to Get Whitewashed". OC Weekly. September 8, 2017. 
+
