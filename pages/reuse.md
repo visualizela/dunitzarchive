@@ -2,8 +2,10 @@
 layout: page
 title: Reuse the Collection
 permalink: /reuse/
-collection: qatar
+collection: dunitzproject
 ---
+
+Metadata, freely resuable . . . 
 
 Wax is inspired by [FAIR data principles](https://journal.code4lib.org/articles/13427), and as such strives to make its collections findable, accessible, interoperable and reusable.
 
