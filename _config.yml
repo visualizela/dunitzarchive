@@ -104,6 +104,8 @@ menu:
     sub:
       - label: 'The Archive'
         link: '/about/'
+      - label: 'Resources'
+        link: '/resources/'
       - label: 'Credits'
         link: '/credits/'
   - label: 'Exhibits'
