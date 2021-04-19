@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About Robin
-permalink: /aboutrobin/
+title: Robin Dunitz
+permalink: /robindunitz/
 ---
-
-**About Robin**
+**Robin Dunitz**
 
 Robin Dunitz is the photographer of this collection of more than 2,000 digitized 35mm slides of murals in Los Angeles. As a long-time resident of Los Angeles and an independent researcher on the city’s murals, Robin has photographed and written extensively about murals, advocating for their preservation and emphasizing their importance in communities of color and beyond.
 
