@@ -104,6 +104,10 @@ menu:
     sub:
       - label: 'The Archive'
         link: '/about/'
+      - label: 'About Robin'
+        link: '/aboutrobin/'
+      - label: 'Resources'
+        link: '/resources/'
       - label: 'Credits'
         link: '/credits/'
   - label: 'Exhibits'
