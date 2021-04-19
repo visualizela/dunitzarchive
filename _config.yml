@@ -111,6 +111,7 @@ menu:
       - label: 'Credits'
         link: '/credits/'
   - label: 'Exhibits'
+    link: '/exhibits/'
     sub:
       - label: 'Eva Cockroft'
         link: '/exhibits/a/'
