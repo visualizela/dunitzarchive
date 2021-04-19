@@ -4,8 +4,6 @@ title: Resources
 permalink: /resources/
 ---
 
-**Resources**
-
 1. "African-American Community News: [Metro Edition]." *The Providence Journal*, Apr 05, 2006.
 
 2. Browne, Ray B. “Robin J. Dunitz. ‘Street Gallery: Guide to 1000 Los Angeles Murals’ (Book Review).” *Journal of American Culture*. Bowling Green, Ohio: Bowling Green State University, 1996.
