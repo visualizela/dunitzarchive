@@ -108,6 +108,8 @@ menu:
         link: '/aboutrobin/'
       - label: 'Resources'
         link: '/resources/'
+      - label: 'Map'
+        link: 'https://visualizela.github.io/dunitzarchivemap/#/home/'
       - label: 'Credits'
         link: '/credits/'
   - label: 'Exhibits'
