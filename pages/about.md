@@ -9,5 +9,5 @@ USC is home to the archives of Robin Dunitz, which includes papers, photographs,
 
 The print collection of materials is available at USC's Architecture and Fine Arts Library. This website provides access to a selection of those materials. 
 
-<embed type="text/html" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRfdcsTZNp6HABddZ0y3u13d6IjhQ3jahwlxpXxRtzgRclb7FvuXCpGSso0wawweSARvm4xJmr3suT6/pubhtml" width="500" height="200">
+<embed type="text/html" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRfdcsTZNp6HABddZ0y3u13d6IjhQ3jahwlxpXxRtzgRclb7FvuXCpGSso0wawweSARvm4xJmr3suT6/pubhtml" width="850" height="500">
 
