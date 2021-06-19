@@ -18,4 +18,8 @@ Clara Valenzuela is currently pursuing a PhD in Musicology at Cornell University
 
 Broadly speaking, Clara is interested in the relationship between musical creation and its socio-political context. Recently, she has been drawn to the ways neoliberal capitalism shapes our music-making practice — In particular, she is interested in popular music, punk and “DIY” music, hauntology and cultural memory, latinidad, feminism, and queerness.
 
+Enrique Martinez III:
 
+Enrique Martinez III is a junior at the University of Southern California majoring in Literary Editing & Publishing and Narrative Studies and minoring in Web Technologies & Applications. 
+
+Enrique is interested in librarianship and, after graduation, would like to pursue his MLIS to become a librarian and learn how he can best help people get access to the resources they need. Additionally, he is interested in the health humanities and narrative medicine and would like to explore how these fields intersect with librarianship.
